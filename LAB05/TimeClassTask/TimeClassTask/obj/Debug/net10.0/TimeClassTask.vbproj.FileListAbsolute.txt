@@ -1,0 +1,15 @@
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\bin\Debug\net10.0\TimeClassTask.exe
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\bin\Debug\net10.0\TimeClassTask.deps.json
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\bin\Debug\net10.0\TimeClassTask.runtimeconfig.json
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\bin\Debug\net10.0\TimeClassTask.dll
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\bin\Debug\net10.0\TimeClassTask.pdb
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.AssemblyInfoInputs.cache
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.AssemblyInfo.vb
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.vbproj.CoreCompileInputs.cache
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.sourcelink.json
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.dll
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\refint\TimeClassTask.dll
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.pdb
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\TimeClassTask.genruntimeconfig.cache
+D:\REPOS\PT_LABS\LAB05\TimeClassTask\TimeClassTask\obj\Debug\net10.0\ref\TimeClassTask.dll
